@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/buton-led-kontrol_dahili_pullup.ino.hex"
+elf = "build/buton-led-kontrol_dahili_pullup.ino.elf"
