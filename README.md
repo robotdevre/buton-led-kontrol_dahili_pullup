@@ -1,4 +1,4 @@
-# buton-led-kontrol ![Wokwi CI](https://github.com/robotdevre/buton-led-kontrol/actions/workflows/wokwi.yml/badge.svg)
+# buton-led-kontrol ![Wokwi CI](https://github.com/robotdevre/led-asenkron-kontrol/actions/workflows/wokwi.yml/badge.svg)
 
 Bu proje, Arduino Uno kartı ile bir buton yardımıyla LED kontrolünü sağlar. Butona basıldığında LED yanar, bırakıldığında söner. `INPUT_PULLUP` özelliği kullanılarak harici pull-up direncine ihtiyaç duyulmaz. Başlangıç seviyesi Arduino uygulaması için uygundur.
 
