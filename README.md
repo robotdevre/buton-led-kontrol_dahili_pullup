@@ -26,7 +26,7 @@ Bu proje, Arduino Uno kartı ile bir buton yardımıyla LED kontrolünü sağlar
 ## 📷 Devre Şeması
 
 📁 `diagram.json` dosyasında Wokwi uyumlu devre şeması bulunmaktadır.  
-🔗 [Projeyi Wokwi'de görmek için tıklayın](https://wokwi.com)
+🔗 [Projeyi Wokwi'de görmek için tıklayın](https://wokwi.com/projects/426611601805365249)
 
 ---
 
